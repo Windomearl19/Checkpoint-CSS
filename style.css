@@ -1,0 +1,37 @@
+
+h1{
+    color: blue;
+    background-color: coral;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size: 250%;
+    }
+    .para2{
+        font-size: 200%;
+        font-family: 'Roboto';
+    }
+ .para1{
+    font-size: 200%;  
+    font-family:'Roboto';
+}
+.liste-services{
+    padding: 70px;
+    border: 20px solid indigo;
+    text-align: center;
+    font-size: 200%;
+list-style: square;
+}
+.para3{
+    font-size: 200%;
+    font-family:'Roboto'
+}
+.para4{
+    font-size: 200%;
+    font-family:'Roboto'
+}
+.class-nav{
+    display: inline-block;
+    background-color: rgb(178, 164, 189);
+    font-size: x-large;
+
+}
